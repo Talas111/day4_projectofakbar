@@ -1,3 +1,5 @@
+package day5_1;
+
 public class BranchingPractice {
     public static void main(String[] args) {
         //some new notes
