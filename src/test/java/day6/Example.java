@@ -5,5 +5,6 @@ public class Example {
         System.out.println("soufhgda");
         System.out.println("need know git so bad");
         System.out.println("hope i will fnish this course and get vreally nice jovb");
+        System.out.println("commmit easy ");
     }
 }
